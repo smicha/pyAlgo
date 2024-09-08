@@ -22,6 +22,7 @@ The Sheep and Wolves problem involves safely transporting a group of sheep and w
 Running the Unit Tests
 
 **HOW TO EXECUTE**
+
 Save the files (SemanticNetsAgent.py, test_SemanticNetsAgent.py, and main.py) in the same directory.
 
 Open a terminal and navigate to the directory where you saved the files.
